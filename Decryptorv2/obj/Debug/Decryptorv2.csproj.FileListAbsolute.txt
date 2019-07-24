@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2013\Projects\Decryptorv2\Decryptorv2\bin\Debug\Decryptorv2.dll
+c:\users\admin\documents\visual studio 2013\Projects\Decryptorv2\Decryptorv2\bin\Debug\Decryptorv2.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Decryptorv2\Decryptorv2\obj\Debug\Decryptorv2.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\Decryptorv2\Decryptorv2\obj\Debug\Decryptorv2.dll
+c:\users\admin\documents\visual studio 2013\Projects\Decryptorv2\Decryptorv2\obj\Debug\Decryptorv2.pdb

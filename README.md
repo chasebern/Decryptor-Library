@@ -5,4 +5,5 @@
         
     Method:
         void Main()// assign decryptedData form encrypted qr code
+        DecryptStringFromBytes_Aes() //Decryption Function
         

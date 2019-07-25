@@ -3,7 +3,16 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Security.Cryptography;
 using System.Text;
+using System.IO;
 using System.Threading.Tasks;
+
+
+using System.Collections.ObjectModel;
+using System.Threading;
+using System.Management;
+using System.Runtime.InteropServices;
+using System.Text.RegularExpressions;
+
 
 namespace Decryptorv2
 {

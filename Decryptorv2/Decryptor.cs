@@ -12,9 +12,9 @@ namespace Decryptorv2
     using System.Security.Cryptography;
     public class Decryptor
     {
-        public static string encrypted;
-        public static string decryptedData;
-        public static void Main()
+        public string encrypted;
+        public string decryptedData;
+        public void Main()
         {
             try
             {

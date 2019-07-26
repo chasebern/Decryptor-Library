@@ -3,3 +3,9 @@ c:\users\admin\documents\visual studio 2013\Projects\Decryptorv2\Decryptorv2\bin
 c:\users\admin\documents\visual studio 2013\Projects\Decryptorv2\Decryptorv2\obj\Debug\Decryptorv2.csprojResolveAssemblyReference.cache
 c:\users\admin\documents\visual studio 2013\Projects\Decryptorv2\Decryptorv2\obj\Debug\Decryptorv2.dll
 c:\users\admin\documents\visual studio 2013\Projects\Decryptorv2\Decryptorv2\obj\Debug\Decryptorv2.pdb
+D:\Users\ctc\Desktop\Decryptor\Decryptor-Library\Decryptorv2\bin\Debug\Decryptorv2.dll
+D:\Users\ctc\Desktop\Decryptor\Decryptor-Library\Decryptorv2\bin\Debug\Decryptorv2.pdb
+D:\Users\ctc\Desktop\Decryptor\Decryptor-Library\Decryptorv2\obj\Debug\Decryptorv2.csprojAssemblyReference.cache
+D:\Users\ctc\Desktop\Decryptor\Decryptor-Library\Decryptorv2\obj\Debug\Decryptorv2.csproj.CoreCompileInputs.cache
+D:\Users\ctc\Desktop\Decryptor\Decryptor-Library\Decryptorv2\obj\Debug\Decryptorv2.dll
+D:\Users\ctc\Desktop\Decryptor\Decryptor-Library\Decryptorv2\obj\Debug\Decryptorv2.pdb
